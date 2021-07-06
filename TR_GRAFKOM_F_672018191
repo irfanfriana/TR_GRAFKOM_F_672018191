@@ -152,7 +152,7 @@ void tampil (void)
 	//genteng tengah kanan
 			glBegin(GL_QUADS);
 	glColor3f(0.5,0,0 );
-	glVertex3f(13.0,35.0, 15.0);//panjang,tinggi, dekat
+	glVertex3f(13.0,35.0, 15.0);
 	glVertex3f(22.0, 25.0, 15.0);
 	glVertex3f(22.0, 25.0, 10.0);
 	glVertex3f(13.0,35.0, 0.0);
